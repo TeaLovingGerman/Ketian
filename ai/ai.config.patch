@@ -1,0 +1,11 @@
+[
+	{
+		"op" : "add",
+		"path" : "/species/ketian",
+		"value" : {
+			"aiFrames" : "ketianAI.png",
+			"portraitFrames" : "portraits/ketianportrait.png",
+			"staticFrames" : "staticketian.png"	
+		}
+	}
+]
